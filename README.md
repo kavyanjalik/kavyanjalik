@@ -13,3 +13,4 @@ I am a PhD candidate (2020-2024) at the Department of Social Sciences, Uninversi
 
 ### 📫 Connect with Me
 - **Email**: kavyanjali.kaushik@uc3m.es
+- **LinkedIn**: https://www.linkedin.com/in/kavyanjalik/
