@@ -1,7 +1,7 @@
 ## Hello!
 
 ### 
-   I am a PhD researcher at the Department of Social Sciences, Universidad Carlos III de Madrid. My research lies at the intersection of national identities, political mobilisation and social media networks. I created this page to collect all the R codes I have written over the years in one page, including codes on computational social sciences methods to analyse big data from social media and survey analysis.
+   I am a PhD researcher at the Department of Social Sciences, Universidad Carlos III de Madrid. My research lies at the intersection of national identities, political mobilisation and social media networks. 
 
 ### Featured Projects
 - **[Twitter Analysis](https://github.com/kavyanjalik/Twitter-Analysis)**  
