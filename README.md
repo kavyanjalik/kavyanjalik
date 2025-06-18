@@ -1,7 +1,7 @@
 ## Hello!
 
 ### 
-   I am a PhD researcher at the Department of Social Sciences, Universidad Carlos III de Madrid. My research lies at the intersection of national identities, political mobilisation and social media networks. 
+   Research interests in identity and emotion mobilisation on digital social networks impacting political behaviour. 
 
 ### Featured Projects
 - **[Twitter Analysis](https://github.com/kavyanjalik/Twitter-Analysis)**  
