@@ -1,7 +1,7 @@
 ## Hello!
 
 ### 
-   Research interests in identity and emotion mobilisation on digital social networks impacting political behaviour. 
+   Research focus on identity mobilisation on digital social networks impacting political behaviour. 
 
 ### Featured Projects
 - **[Twitter Analysis](https://github.com/kavyanjalik/Twitter-Analysis)**  
