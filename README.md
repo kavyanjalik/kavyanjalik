@@ -8,5 +8,5 @@
   A comprehensive toolkit for analysing Twitter data, including retweet networks, sentiment analysis, and topic modelling.
 
 ### Connect with Me
-- **Email**: kkaushik@pa.uc3m.es
+- **Email**: kavyanjali.kaushik@prf.cuni.cz
 - **Website**: https://kavyanjalik.github.io/
